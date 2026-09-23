@@ -1,1 +1,1 @@
-export { default } from './src/middleware';
+export {};
